@@ -1,0 +1,8 @@
+/.idea/
+/chunks/
+/dataset/*
+/etc/notes.txt
+/genres/
+/splits/
+src/__pycache__/
+/test_music/*
